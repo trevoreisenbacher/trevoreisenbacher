@@ -1,4 +1,4 @@
-# Trevor Eisenbacher
+# Hi, I'm Trevor Eisenbacher 👋
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 </div>
 
-## About
+## About Me
 
 Computer Science student at the **University of Tennessee Knoxville** focused on full-stack product engineering, data-driven decision systems, and workflow automation. Experience spans backend architecture, applied machine learning, analytics engineering, and production-grade web systems. Comfortable operating across ambiguity, requirements definition, and execution under real sponsor constraints.
 - 🔭 Currently working on: Full-stack engineering and data-driven systems for a confidential AI executive recruiting platform (Senior Design)
@@ -85,7 +85,7 @@ project sponsors.
 
 **Gain & Grain — Full-Stack Social Fitness Platform**   
 *Project Manager / Software Developer*
-- Architected a full-stack social fitness platform using Next.js App Router with REST API routes, implementing JWTbased authentication.
+- Architected a full-stack social fitness platform using Next.js App Router with REST API routes, implementing JWT-based authentication.
 - Designed MongoDB data models with embedded and referenced documents (users, posts, workouts, meals)
 - Led development in an Agile/Scrum environment in a 5-person team, coordinating Git-based workflows, code
 reviews, and sprint task prioritization.
