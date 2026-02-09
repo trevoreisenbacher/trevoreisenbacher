@@ -60,41 +60,20 @@ Computer Science student at the **University of Tennessee Knoxville** focused on
 
 **Quality Management Systems Data Analyst Intern — Amcor**  
 *May 2025 – Aug 2025*
-- Designed and deployed four Power BI dashboards aggregating multi-source operational data into executive-level insights.
-- Applied advanced DAX for non-trivial calculations and KPI modeling.
-- Translated stakeholder requirements into technical specifications across global business units.
 
 **Lab Research Assistant — Department of Biochemistry & Cellular and Molecular Biology**  
 *Mar 2024 – Aug 2024*
-- Built ML-based cell detection pipeline using Ilastik on 3D image stacks, reducing manual review effort by ~75%.
-- Authored 10+ automation scripts in Python, R, and ImageJ to streamline lab data workflows.
 
 ## Project Highlights
 
 **Confidential AI Executive Recruiting Platform (Senior Design)**  
 *Project Manager / Software Developer*
-- Worked directly with the founder (former Fortune 10 Exec) of a B2B ISD startup to define product strategy,
-accelerating revenue from $0 to $250K and supporting a pro forma forecast of $1.2M within 24 months.
-- Led end-to-end product and UX design in Figma, translating recruiter workflows into validated user journeys,
-dashboards, and feature requirements, and implemented production React components based on those designs.
-- Integrated external AI services for user document parsing to enhance functionality and recruiter decision-making.
-- Authored system-level documentation, requirements, and risk analyses to support sponsor reviews and execution
-under confidentiality constraints.
-- Conducted interviews with 5 C-level executives and 10 business coaches, presenting findings and recommendations to
-project sponsors.
 
 **Gain & Grain — Full-Stack Social Fitness Platform**   
 *Project Manager / Software Developer*
-- Architected a full-stack social fitness platform using Next.js App Router with REST API routes, implementing JWT-based authentication.
-- Designed MongoDB data models with embedded and referenced documents (users, posts, workouts, meals)
-- Led development in an Agile/Scrum environment in a 5-person team, coordinating Git-based workflows, code
-reviews, and sprint task prioritization.
 
 ## Leadership
 
 - **Association for Computing Machinery (UTK)** — Communications Chair  
-  Founded chapter; scaled to 40 active members.
 - **Hack4Impact UTK** — Software Developer  
-  Contributed production fixes and UI improvements for nonprofit client.
 - **Eagle Scout**  
-  Planned and executed conservation project involving 25+ volunteers and 50 native trees.
