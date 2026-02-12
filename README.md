@@ -14,7 +14,7 @@ Computer Science student at the **University of Tennessee Knoxville** focused on
 - 🌱 Learning: Systems architecture, backend scalability patterns, and applied machine learning integration
 - 💼 Experience: Quality Management Systems Data Analyst Intern @ Amcor | Lab Research Assistant @ UTK BCMB
 - 🎯 Interests: Backend engineering, systems programming, applied AI, data analytics, enterprise software
-- 📫 Reach me: teisenba@tennessee.edu
+- 📫 Reach me: trevor.bacher04@gmail.com
 
 ## Technical Stack
 
